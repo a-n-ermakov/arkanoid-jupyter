@@ -1,6 +1,6 @@
 # arkanoid-jupyter
 
-Тетрадка с демо арканоида с использованием matplotlib
+Тетрадка с демо арканоида
 
 ![demo.png](images/demo.png)
 
